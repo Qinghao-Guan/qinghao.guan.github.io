@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Qinghao Guan / University of Zurich"
 title_separator          : "-"
 name                     : &name "Qinghao Guan"
-description              : &description "Qinghao Guan worked as a Student Assistant at the Computational Social and Communication Science division, Department of Communication and Media Research, UZH since September 2024. He will change his function soon to a Teaching and Research Assistant. Previously, I was a master's student in Computational Linguistics at the University of Zurich. My research interests broadly include textual analysis in digital humanities and text mining for social media. Specifically, my recent research was on how Large Language Models (LLMs) convey and communicate information."
+description              : &description "I am working as a Student Assistant at the Computational Social and Communication Science division, Department of Communication and Media Research, UZH since September 2024. He will change his function soon to a Teaching and Research Assistant. Previously, I was a master's student in Computational Linguistics at the University of Zurich. My research interests broadly include textual analysis in digital humanities and text mining for social media. Specifically, my recent research was on how Large Language Models (LLMs) convey and communicate information."
 url                      : https://qinghao.guan.github.io   # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,42 +22,42 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Qinghao Guan"
+  pronouns         : # example: "he/his"  
+  bio              : "Student Assistant at University of Zurich"
+  location         : "Zurich, Switzerland"
+  employer         : "University of Zurich"
+  uri              : "https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/qinghao-guan.html"
+  email            : "qinghao.guan@uzh.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=50wF_BAAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0062-4502"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Qinghao-Guan"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Qinghao-Guan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/qinghaoguan/"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/qinghao-guan-a67733276/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
